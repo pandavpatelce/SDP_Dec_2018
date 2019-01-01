@@ -1,0 +1,63 @@
+-Roll Nos: CE104(Karan), CE080(Bhumik)
+
+-Github Repository: https://github.com/KaranGRohit/SMS
+
+-Technology: We will be using python3 langauge with Django Framework.
+
+-Title: School Management System
+
+-Descripion: School Management System is too complex because it includes Admiministrative Work plus 	    Educational Plan.
+			we will bring this two major things togetherin our project where everything is so transparent and can be
+			planned so well.it is easy to use this system by students,teachers,parents,principal,etc..
+			The main purpose of this system is to provide every basic need online so work can be easily and securly done.
+			
+-Stories with Priorities:s
+
+(P0: highest priority task)
+
+	Users of System:
+	
+	1)Student Activity:
+
+	P0.student can see his/her school result online. 
+	P1.student can see his/her class Attendance.
+	P2.student can see  his/her allocated assignment or project or timetable by teacher.
+	P3.studebt can see timetable.
+	P4.student can generate  his/her fee-reciept.
+	P5.a new student can apply for admission to the school.
+	
+	2)Teacher Activity:
+	
+	P0.teacher can see any student's information of his class.  
+	P1.teacher can upload student's marks and generate result.
+	P2.teacher can upload student's attendance.
+	P3.teacher can upload student assignment/project online.
+	P4.teacher can organize a PTM(parent teacher meeting) via notice. 
+	
+	
+	3)Principal Activity(Admin):
+	
+	P0.principal can enroll new students and hire new teacher.
+	P1.principal can see any student's or teacher's information.
+	P2.principal can assign classes and subjects to teachers.
+	P3.principal can decide rules for school and push it to the notice board.
+	P4.principal can generate timetable for class and push it to the notice board.
+
+
+	4)Parents Activity:
+
+	P0.Parents can view student result as well as attendance.
+	P1.Parents can view notices published by principle/teachers.
+ 
+	
+	5)Accountant Activity:
+
+	P0.Accountant can accept student fees.
+	P1. Accountant can generate salary cheques for teachers/principle.
+	
+	-*Notice Board*-
+	#. any information or news a teacher or principle can push/publish to the notice board for students/Parents. 
+	
+	
+-Other Info: So in This project we might take help of Existing Project for System Analysis/Domain Analysis
+			 plus Design Part and we try to do this by following Agile SCRUM methodology if possible.

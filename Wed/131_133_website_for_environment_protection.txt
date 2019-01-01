@@ -1,0 +1,54 @@
+Roll Nos.-   CE131 & CE133
+
+Project Title- Environment Protection
+
+Github Repository Link-  https://github.com/VandalizedSoul/ComplaintBox
+
+Technology used- Python (Django framework) and .Net for web services.
+
+Description- Allows citizens to complain for any kind of non-environmental activities going on in the surroundings as well as allows government officials of different authorities to see the complains and respond to them.
+
+User stories:
+
+Actors: 1)Citizens
+	2)Government Officials at different levels
+	
+Citizens:
+		P0=>
+		- can complain or suggest for a specific cause by mentioning the details.
+		- can view the status of a complaint's progress.
+		- can provide a feedback for the work done against the complaints. 
+		- can view the history of complaints made.
+		
+		P1=>
+		- can view the ratings or rankings for making valid complaints or suggestions.
+		- can redeem for the gifts/allowances offered by the government for reaching a particular mark for providing help.
+		- can see the the wall containing some great examples of complaints solved by the government.
+		
+        	P2=>
+		- can chat with intelligent bot (using WIT AI).
+		
+Government Officials:
+		P0=>
+		- can see the list of complaints to be solved by their respective areas and department.
+		- can redirect complaint to higher level authorities.
+		- can maintain the history of work done.
+		
+		P1=>
+		- can post some useful complaint on the wall for the users to motivate them.
+		- can rate the complaint on the basis of it's validity and importance.
+		- can group similar complaint and respond to all in a single go.
+		- can provide allowances/gifts to the users for making valid complaint & reaching to particular mark.
+		- can communicate in the hierarchy for distributing the work to be done to solve the complaint.
+
+		P2=>
+		- can prioritize complaints to be solved on the basis of ranking of the users or complaints that are more frequent.
+		
+Higher Authorities:
+		P0=>
+		- can check the work done by the lower level officers and can also reward them.
+		- can enforce priorities to be changed if required and if found unproper by the officials.
+		- can see the data of all departments of his level area.
+		
+		P1=>
+	    	- can rate the officers according to their efforts.

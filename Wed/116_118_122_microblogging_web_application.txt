@@ -1,0 +1,40 @@
+Rahi Shah (ce118)
+Meet Shah(ce116)
+Aditya Shanbhog(ce122)
+
+Technologies:
+Neo4j(Graph database)
+Android(Android Studio)
+
+Description:
+        We are creating the microblogging application. Authenticated user can follow, block, post status, tag another user. Further we are planning to extend the application with some special features like admin tools, friends suggestion, mutual friends.
+
+Github: https://github.com/rahee15
+
+
+User Stories:
+P0-Login
+	User can login by his Username & Password .Forgot Password option should be implemented.
+P0-Signup
+	According to UI fields take the data from user and validate them.
+P0-Follow request:
+	User can send a follow request to another user.it must notify another user about request and if request is accepted by user then request sender will be notified about accepted request.
+
+P0-Post the story:
+	User can post status or images or both.
+P0-NewsFeeds:
+	User can see the sorted newsfeeds of connected users 
+  
+P1-Search Friends
+	Only Logged User can search any user by their username.eg.with suggestion like if I type “r “ then rahi will come as suggestion
+P1-Like and comment on post
+	User can like and comment on post.that post will be added to post you’ve liked.
+P1-Tag another user
+	In the status a User can tag multiple users.
+P1-Block User
+	User can block another user .And blocked user can not search particular user and blocked user can not send friend request to that user.
+
+P2-Admin tool
+	Admin can block,delete or delete any post of any user.
+P2-Mutual friends and suggested friends
+	In future if time permits we will think about this.
