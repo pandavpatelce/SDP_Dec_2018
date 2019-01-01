@@ -1,0 +1,18 @@
+Roll No: CE-111
+
+Name: SAXENA ANMOL ANUP
+
+Github Profile: https://github.com/anmolsaxena10/
+
+Project Title: Search Autocomplete API
+
+Technologies: Django, Redis, Cassandra, Javascript(for front-end library), etc
+
+Description: The project aims at developing a scalable, available and low latency search auto-complete/type-ahead functionality using proper 
+data structures(trie/prefix tree) and algorithms to maintain these data structures. The suggestions would be based on most frequent queries. End users can consume API and Front End library developed in this project to use this service for their uses.
+
+Priorities:
+P0) Develop proper data structure according to requirements, Develop an ReST API to consume the service.
+P1) Develop a Front End library for javascript which provides basic functionalities for using the API easily, Add feature of Spelling Auto-correct for queries.
+Extra Info: The following dataset would be used for updating queries. Also to deploy this project AWS free tier could be used.
+https://www.kaggle.com/c/yandex-personalized-web-search-challenge/data

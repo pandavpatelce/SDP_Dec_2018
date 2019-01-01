@@ -1,0 +1,37 @@
+RollNo:- CE085 , CE083 , CE092
+
+GitHub Repository:- https://github.com/ChinkalPatel/Projects 
+
+ Technology:- python , html , css , bootstrap , javascript , mysql
+
+Title:-Hostel Management System 
+
+Description:- It is provide facility to manage hostel  operation like admission,payment bill online e.t.c.
+
+User Stories:
+Types of Modules and Its Stories:
+Student Module:-
+	Student can get Admission online.
+	Student agrees to terms and condition of hostel.
+	Student pay fees online.
+	Student also select block type, room type and course type for book a room.
+	Student can check menu of the mess weakly.
+	Student can get electricity bill through mail every month.
+	Students pay their electricity bill online.
+	Student can see the Canteen menu and order it.
+	Students pay canteen dues every month.
+	Student book slot for watching TV in groups (Priority).
+	Students complain about room and some other reasons online.
+	Student can generate gatepass.
+Admin Module:-
+	Admin can manage student info and staff info and also server details.
+	Admin can manage staff salary.
+	Admin see complain of student.
+	Admin see and manage account of hostel.
+Employee/staff module:
+	Employee Verify Document and Agrees Admission of student.
+	Employee Allocate room to student by their selection of room type.
+	Employee manages fee payment of room, electricity, mess, canteen of the student.
+	Employee generates electricity bill of appropriate students and mail them.
+	Employee manages and uploads weekly mess detail
+	Employee manages and generate monthly canteen bill of appropriate students.
