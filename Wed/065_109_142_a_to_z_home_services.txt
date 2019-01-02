@@ -1,0 +1,28 @@
+Project Group Members:
+    Virani Yash                   Roll no. : ce142
+    Sata Rahul                    Roll no. : ce109
+    Adi Meghnathi                 Roll no. : ce065
+
+Name : AtoZHomeServices
+
+Description:
+	AtoZHomeServices is an mobile marketplace that matches freelance labour with local demand, allowing consumers to find immediate help with everyday tasks, including cleaning, moving and other work.
+
+User stories:
+Admin:
+Admin can manage tasker, recruit tasker after taking some solid proofs, remove tasker based on his/her bad reviews.
+Admin can add new locations where he want to start services.
+Admin can also add new type of service he want to start.
+Admin can declare rewards on some occasions.
+
+User:
+User can be of two types (1) Tasker (2) Customer
+User can apply to become a tasker and after proper verification he/she can become a tasker or can be rejected
+Tasker can select area of his/her choice within where he/she want to provide services.
+Customer can find his/her location in location list.
+Customer can select the service from service list
+Customer can select tasker based on reviews in his/her area or city.
+Customer can get the task which is requested done according to the time he/she requested.
+Customer can see the approximate charges of the service based on some parameters in the app.
+Customer can give feedback and reviews to the tasker.
+Customer can also check availability of the services in his/her area.
