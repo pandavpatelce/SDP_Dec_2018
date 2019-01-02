@@ -38,3 +38,11 @@ P2-Admin tool
 	Admin can block,delete or delete any post of any user.
 P2-Mutual friends and suggested friends
 	In future if time permits we will think about this.
+
+02 Jan 2019 comments:
+You need to put date against each story in p0 and p1 priority, by that date implementation of that story should be complete
+You need to be ready with the SRS by next lab
+All these changes should be reflected in this document only. So you can clone this repo, create new branch, push it to remote repo and start new pull request.
+By next reporting (16 Jan) you should have one or two stories implemented.
+SRS document should be updated under srs_doc directory which is under parent of your project file in this repo
+Already tested feasibility of using APIs hosted on tomcat server on laptop from android app on phone if you are connected with hotspot of phone
