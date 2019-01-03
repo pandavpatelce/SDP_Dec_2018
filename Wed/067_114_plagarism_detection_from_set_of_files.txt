@@ -3,11 +3,21 @@ CE067
 CE114
 
 Names:
+	Meet Mehta:CE-067
+	Jay Shah:CE-114 
 
-Project title:
+Project title:Plagarism Detection System 
 
-Description:
+Description:This system will take two source file as input and will calculate percentage of similarity i.e percentage of plagiagrism present in the source code.
+		
 
-Technologies and libraris:
+Technologies and libraries:
+		1)For generating parse-tree we will be using a parse generator tool that is ANTLR.
+		  We will be taking reference for this tool from this repository from github.
+		  url:-https://github.com/meetmehta1198/antlr4.git
+		
+		2) For parsing and generating Abstract-Syntax-Tree we will be using some materials 			   available on internet.
+		   
+		  links:https://github.com/meetmehta1198/Plagiarism-Detection-System.git		
 
 User stories:
