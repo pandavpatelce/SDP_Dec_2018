@@ -23,3 +23,10 @@ USER STORIES:
 	As a User, I want to set timer for messaging so at that time message should be send directly to the User.
 	As a User, I want to call the particular User with voice recognization facility.
 	As a User, I want to send message to particular User with voice recognization facility.
+
+03 Jan 2019 reporting:
+add priorities and dates to all user stories and update it on this repo
+srs should be ready by next reporting, and update it under srs_docs in Thu directory under this repo
+have basic speech recognition google API integration ready
+Need to work on integrating with android APIs for call and SMS
+Using wit.ai

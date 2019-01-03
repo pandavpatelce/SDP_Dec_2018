@@ -40,3 +40,13 @@ System should show the platform no. along with the bus number.
 System should notify the user about upcoming stations and stations that are remaining until destination would be reached.
 
 System should show user the path on which he/she is travelling on the map.
+
+
+
+03 Jan 2019 reporting:
+add priorities and dates to all user stories and update it on this repo
+srs should be ready by next reporting, and update it under srs_docs in Thu directory under this repo
+try implement one or two user stories by next reporting
+already integrated with android APIs to get user location and detecting near by stations using location.
+will explore if they want to go with APIs and UI separated
+Good progress!!

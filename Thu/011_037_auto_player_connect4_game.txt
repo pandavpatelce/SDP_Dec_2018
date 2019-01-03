@@ -9,8 +9,20 @@ Project title:
 
 Description:
 
+Github repo link:
+
 Technologies:
 
 Other useful information:
 
 user stories with priorities and date against each story by which implementation should be complete
+
+
+
+
+03 Jan 2019 reporting:
+Complete above details and send pull request
+srs should be ready by next reporting, and update it under srs_docs in Thu directory under this repo
+implemented player class for auto player
+Will implement board and coin class
+

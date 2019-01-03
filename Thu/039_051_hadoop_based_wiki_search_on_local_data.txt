@@ -9,8 +9,19 @@ Project title:
 
 Description:
 
+Github repo link:
+
 Technologies:
 
 Other useful information:
 
 user stories with priorities and date against each story by which implementation should be complete
+
+
+03 Jan 2019 reporting:
+Complete above details and send pull request
+srs should be ready by next reporting, and update it under srs_docs in Thu directory under this repo
+Hello world setup for hadoop and pySpark
+Exploring ways to open very huge file to see its structure
+Also exploring ways to make mapping efficient
+will need to process wiki dump to extract useful info for input to hadoop

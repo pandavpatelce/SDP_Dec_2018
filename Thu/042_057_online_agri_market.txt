@@ -51,3 +51,14 @@ User stories:
 		
 		As a farmer, I should able to save some posts which has posted by trader for
 		future use.
+
+
+
+03 Jan 2019 reporting:
+add priorities and dates to all user stories and update it on this repo
+srs should be ready by next reporting, and update it under srs_docs in Thu directory under this repo
+try implement one or two user stories by next reporting
+have designed basic first pages for buy and sell
+explore searching and sorting for buyer
+good progress!!
+

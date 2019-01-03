@@ -58,7 +58,8 @@ USER STORIES
 
 
 
-
-	
-
-
+03 Jan 2019 reporting:
+add priorities and dates to all user stories and update it on this repo
+srs should be ready by next reporting, and update it under srs_docs in Thu directory under this repo
+try to do different feasibility testing on video rendering on client from server
+try implement one or two user stories by next reporting

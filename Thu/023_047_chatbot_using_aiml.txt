@@ -1,16 +1,36 @@
-Please send me your email addresses to pandavpatel.ce@ddu.ac.in
 Fill in the following details
 
-Roll Nos of team mates:
-
-Names of team mates:
+Roll Numbers:
+CE023
+CE047
+			 
+Names:
+Himani Desai
+Bhumika Kalyani
 
 Project title:
+Chatbot using AIML
+
+Github Repository:
 
 Description:
+The purpose is creating a chatbot that receives questions from users,matches it with pairs in database and provides appropriate answers.
+This chatbot is an AI chatbot that converts an English statement into a machine friendly query and returns answer in a natural language sentence.
+It answers questions like a human does,instead of giving list of websites that can contain the answer.
+			
+Github repo of the project:  -
+User stories:
+Priority0 16/01/2019 User can have a normal chat with the chatbot.
+Priority1 22/01/2019 User can know the weather,time,date by interacting with chatbot.
+Priority1 04/02/2019 User can search for nearby places and get options to choose in form of links.
+Priority2 18/02/2019 User can have an interactive GUI.
+Priority3 01/04/2019 User can interact with other users in this chat application.
 
-Technologies:
 
-Other useful information:
-
-user stories with priorities and date against each story by which implementation should be complete
+03 Jan 2019 reporting:
+Pandav will update the copy of this on github with above details from updated email
+add priorities and dates to all user stories and send me email
+srs should be ready by next reporting, and update it under srs_docs in Thu directory under this repo
+Have basic version working
+Its based on fixed set of questions
+google search for unknown questions is not working - try to fix it
