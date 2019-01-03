@@ -1,0 +1,42 @@
+Roll Numbers:
+CE048, CE055, CE059
+
+
+Names:
+Kapadia Harshil, Makwana Hardik, Lakhani Milan
+
+
+Project title: 
+BRTS Helper
+
+Description:
+The app lets the user know the location of the nearest BRTS stop and the user can enter the destination station. Now, app would fetch and display all the buses that travel on the route that includes both the source and destination stations. The user can board into any of the shown buses and then has to check in to the app as soon as he/she starts the journey. The app will then keep a track of user's location and keep notifying him/her about the upcoming sations and when his/her destination is about to come so that the user doesn't miss the station. 
+
+Github repo of the project:
+https://github.com/HarshilKapadia/BRTSHelper
+
+User stories:
+
+Actors: Admin, User
+
+As a user I should be able to search for buses that can take me to my desired destination.
+As a user I should be able to check in to the journey as I sit in the bus.
+As a user I should be able to get the next station in my journey.
+As a user I should be able to get the nearest source destination to commence journey.
+As a user I should be able to check out from the journey as the destination is reached.
+As a user I should be able to rate the app.
+As a user I should be able to post a review about my experience.
+
+As an admin I should be able to manage database of the buses.
+
+System should be able to track the location of the user.
+
+System should be able to fetch the BRTS stop nearest to the user.
+
+System should show a list of buses along with expected time of arrival that can take user from src to dest. 
+
+System should show the platform no. along with the bus number. 
+
+System should notify the user about upcoming stations and stations that are remaining until destination would be reached.
+
+System should show user the path on which he/she is travelling on the map.

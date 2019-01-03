@@ -1,0 +1,25 @@
+ROLL NUMBERS: CE-04, CE-13, CE-16
+
+NAMES:
+	Anadani Savan
+	Busa Romin
+	Chauhan Jaydeep
+
+PROJECT TITLE: Android Application for calling and messaging
+
+DESCRIPTION:
+	-By using this application, User should be able to use the facility of either calling or messaging.
+	-It also provides the facility of set the timer and voice recognization.
+	-In timer mode,User should be notified at given time in case of calling,whereas in case of messaging,message should directly send to the target User and User must need to set the message for sending.
+	-In voice recognization mode,User should be able to call and message by speaking words like "Call to XYZ" or "Message to XYZ",
+	 In case of messaging,User should be redirected to particular User and again User should be able to speak the message which he/she wants to send.
+	 
+GITHUB REPOSITORY OF THE PROJECT:
+	Link for Repository: https://github.com/rominbusa/Android-App-for-Calling-And-Messaging
+	Username of group member in github: Savan2711, rominbusa, jc4250
+
+USER STORIES:
+	As a User, I want to set timer for calling and at given time notification should be pop up on the screen with call and cancel option.
+	As a User, I want to set timer for messaging so at that time message should be send directly to the User.
+	As a User, I want to call the particular User with voice recognization facility.
+	As a User, I want to send message to particular User with voice recognization facility.

@@ -1,0 +1,53 @@
+Roll Numbers: CE042, CE057
+
+Names: JAYKUMAR PATEL, BHAVIN MAJETHIA
+
+Project title: ONLINE COMMODITY MARKET
+
+Description: The Vision of this project is to ensure fair price to the farming community by devising 
+	new techniques and by making use of online market. An application, that serves as a platform for
+	movement of agricultural products from the farms directly to the manufacturers or retailers. This 
+	mobile application provides privilege for both farmers and manufacturers or retailers to buy 
+	and sell the required farm products without the involvement of a middleman at its right profitable 
+	price. The agriculture experts shall analyze the product that comes into this platform, approve it
+	and provide ratings based on quality. This makes all the available farm products easily accessible. 
+	Hence it provides freedom of pricing and freedom of access. Through this we can ensure farmers to 
+	make selling decisions most advantageously.
+
+Github repo of the project:https://github.com/jaypatel-13/Online-Agri-Market.git
+
+User stories:
+
+	Actors: Buyers, Sellers
+	
+		As a trader, I should be able log in to the system.
+
+		As a trader, I should be able to post details about product that I want to buy
+		with certain specification.
+		
+		As a trader, I should able to get details about farmers that are willing to sell
+		their products that I have just posted.
+		
+		As a trader, I should able to get current details about market rate of any
+		agricultural product.
+		
+		As a trader, I should able to save some posts which has posted by farmer for
+		future use.
+		
+		As a trader, I should able to share posts which have posted by others as well
+		as by me on other social media platforms like whatsapp etc.
+
+		As a farmer, I should be able to login to the system via simple registration and
+		login process.(via mobile no. And OTP)
+		
+		As a farmer, I should be able to post details of my product with sample photograph
+		and description that I want sell.
+		
+		As a farmer, I should able to get details about traders that are currently
+		seeking products that I want to sell.
+		
+		As a farmer, I should able to get current details about market rate of any
+		agricultural product.
+		
+		As a farmer, I should able to save some posts which has posted by trader for
+		future use.
