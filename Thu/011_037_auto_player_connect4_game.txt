@@ -1,0 +1,16 @@
+Please send me your email addresses to pandavpatel.ce@ddu.ac.in
+Fill in the following details
+
+Roll Nos of team mates:
+
+Names of team mates:
+
+Project title:
+
+Description:
+
+Technologies:
+
+Other useful information:
+
+user stories with priorities and date against each story by which implementation should be complete
