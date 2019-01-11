@@ -6,9 +6,9 @@ Names:
 Meet Mehta:CE-067
 Jay Shah:CE-114 
 
-Project title:Plagarism Detection System 
+Project title:Plagarism Detection System for C language.
 
-Description:This system will take two source file as input and will calculate percentage of similarity i.e percentage of plagiagrism present in the source code.
+Description:This system will take set of source code file as input and will calculate percentage of similarity i.e percentage of plagiagrism present in the source code.
 		
 
 Technologies and libraries:
