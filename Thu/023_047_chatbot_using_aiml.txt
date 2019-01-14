@@ -11,7 +11,7 @@ Bhumika Kalyani
 Project title:
 Chatbot using AIML
 
-Github Repository:
+Github Repository:https://github.com/Bhumika29/chatbot.git
 
 Description:
 The purpose is creating a chatbot that receives questions from users,matches it with pairs in database and provides appropriate answers.
@@ -23,8 +23,8 @@ User stories:
 Priority0 16/01/2019 User can have a normal chat with the chatbot.
 Priority1 22/01/2019 User can know the weather,time,date by interacting with chatbot.
 Priority1 04/02/2019 User can search for nearby places and get options to choose in form of links.
-Priority2 18/02/2019 User can have an interactive GUI.
-Priority3 01/04/2019 User can interact with other users in this chat application.
+Priority1 18/02/2019 User can have an interactive GUI.
+Priority2 01/04/2019 User can interact with other users in this chat application.
 
 
 03 Jan 2019 reporting:
