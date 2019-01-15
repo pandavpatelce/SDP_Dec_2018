@@ -21,41 +21,41 @@
 
 	1)Student Activity:
 
-	P0.student can see his/her school result online. 
-	P1.student can see his/her class Attendance.
+	P0.student can see his/her school result online. (20/01/2019)
+	P1.student can see his/her class Attendance.(24/01/2019)
 	P2.student can see  his/her allocated assignment or project or timetable by teacher.
 	P3.studebt can see timetable.
 	P4.student can generate  his/her fee-reciept.
-	P5.a new student can apply for admission to the school.
+	P5.a new student can apply for admission to the school.(extention)
 	
 	2)Teacher Activity:
 	
-	P0.teacher can see any student's information of his class.  
-	P1.teacher can upload student's marks and generate result.
+	P0.teacher can see any student's information of his class.(01/02/2019)  
+	P1.teacher can upload student's marks and generate result.(13/02/209)
 	P2.teacher can upload student's attendance.
-	P3.teacher can upload student assignment/project online.
-	P4.teacher can organize a PTM(parent teacher meeting) via notice. 
+	P3.teacher can upload student assignment/project online.(extention)
+	P4.teacher can organize a PTM(parent teacher meeting) via notice. (extention)
 	
 	
 	3)Principal Activity(Admin):
 	
-	P0.principal can enroll new students and hire new teacher.
-	P1.principal can see any student's or teacher's information.
+	P0.principal can enroll new students and hire new teacher.(01/02/2019)
+	P1.principal can see any student's or teacher's information.(10/02/2019)
 	P2.principal can assign classes and subjects to teachers.
-	P3.principal can decide rules for school and push it to the notice board.
-	P4.principal can generate timetable for class and push it to the notice board.
+	P3.principal can decide rules for school and push it to the notice board.(extention)
+	P4.principal can generate timetable for class and push it to the notice board.(extention)
 
 
 	4)Parents Activity:
 
-	P0.Parents can view student result as well as attendance.
-	P1.Parents can view notices published by principle/teachers.
+	P0.Parents can view student result as well as attendance.(22/02/2019)
+	P1.Parents can view notices published by principle/teachers.(extention)
  
 	
 	5)Accountant Activity:
 
-	P0.Accountant can accept student fees.
-	P1. Accountant can generate salary cheques for teachers/principle.
+	P0.Accountant can accept student fees.(28/02/2019)
+	P1. Accountant can generate salary cheques for teachers/principle.(extention)
 	
 	-*Notice Board*-
 	#. any information or news a teacher or principle can push/publish to the notice board for students/Parents. 
@@ -70,3 +70,6 @@ You need to be ready with the SRS by next lab
 All these changes should be reflected in this document only. So you can clone this repo, create new branch, push it to remote repo and start new pull request.
 By next reporting (16 Jan) you should have one or two stories implemented.
 SRS document should be updated under srs_doc directory which is under parent of your project file in this repo
+
+15 Jan 2019 comments(Karan):
+Dates are Tentative* for implementation of P0 & P1 stories.
