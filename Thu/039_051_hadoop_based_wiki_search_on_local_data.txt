@@ -9,7 +9,7 @@ Project title: Wiki Search Engine based on Hadoop File System
 
 Description: The Idea is to Build a Wiki Search Engine Based on top of Hadoop File System. It ranks wiki page based on it's relevence and shows the result to the user. 
 
-Github repo link:
+Github repo link: https://github.com/huzaifa242/Wiki-Search.git
 
 Technologies:
 
