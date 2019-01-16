@@ -24,3 +24,9 @@ All these changes should be reflected in this document only. So you can clone th
 SRS document should be updated under srs_doc directory which is under parent of your project file in this repo
 Send me eamil stating your need for ddu email address
 Also send me separate email including details on algorithm that you are planning to use.
+
+16 Jan 2019 comments:
+design ready
+SRS to be completed.
+Send Pull request with priorities updated for p1-p4 and also include SRS in pull request
+Will start implementation by this week
