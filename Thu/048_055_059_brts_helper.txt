@@ -39,7 +39,7 @@ P4.1 - System should show the platform no. along with the bus no.
 P4.2 - System should notify the user about upcoming stations and stations that are remaining until destination would be reached.
 P4.3 - System should show user the path on which he/she is travelling on the map.
 p4.4 - As an admin I should be able to manage database of the buses.
-(P4 until 07/01/2019.)
+(P4 until 07/03/2019.)
 
 System should show user the path on which he/she is travelling on the map.
 
