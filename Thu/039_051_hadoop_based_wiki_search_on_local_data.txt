@@ -25,3 +25,8 @@ Hello world setup for hadoop and pySpark
 Exploring ways to open very huge file to see its structure
 Also exploring ways to make mapping efficient
 will need to process wiki dump to extract useful info for input to hadoop
+
+17 Jan 2019 update:
+SRS to be updated on github (should be in IEEE format) - send pull request
+mapping was inefficient because spark was running on a local copy - fixed it!
+figuring out pre-processing methods on wiki data

@@ -34,3 +34,9 @@ srs should be ready by next reporting, and update it under srs_docs in Thu direc
 Have basic version working
 Its based on fixed set of questions
 google search for unknown questions is not working - try to fix it
+
+17 Jan 2019 update:
+SRS completed (should be in IEEE format) - send pull request
+learnt more about aiml and adding more files to it
+Still need to fix google search for unknown questions
+Add code to repo - its very important. Make small changes and push to git repo. Do not accumulate large changes locally.

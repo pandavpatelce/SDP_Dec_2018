@@ -62,3 +62,8 @@ have designed basic first pages for buy and sell
 explore searching and sorting for buyer
 good progress!!
 
+17 Jan 2019 update:
+pending from last time - assign proper priorities to user stories and dates to all user stories and update it on this repo
+SRS to be updated on github (should be in IEEE format) - send pull request
+still workin gon sign up page
+next step is to complete signup functionality for user with database entry

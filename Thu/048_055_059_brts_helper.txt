@@ -50,3 +50,11 @@ try implement one or two user stories by next reporting
 already integrated with android APIs to get user location and detecting near by stations using location.
 will explore if they want to go with APIs and UI separated
 Good progress!!
+
+17 Jan 2019 update:
+pending from last time - add priorities and dates to all user stories and update it on this repo
+SRS to be updated on github (should be in IEEE format) - send pull request for this
+implemented near by station search for current user location
+Will not go API way due to time constraint
+So next step is to get list of buses to arrive on current location
+Then based on destination provide list of buses from a given station
