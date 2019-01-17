@@ -1,15 +1,15 @@
 Please send me your email addresses to pandavpatel.ce@ddu.ac.in
 Fill in the following details
 
-Roll Nos of team mates:
+Roll Nos of team mates: CE051 , CE039
 
-Names of team mates:
+Names of team mates: Huzaifa Mankda, Kishan Khadela
 
-Project title:
+Project title: Wiki Search Engine based on Hadoop File System
 
-Description:
+Description: The Idea is to Build a Wiki Search Engine Based on top of Hadoop File System. It ranks wiki page based on it's relevence and shows the result to the user. 
 
-Github repo link:
+Github repo link: https://github.com/huzaifa242/Wiki-Search.git
 
 Technologies:
 
