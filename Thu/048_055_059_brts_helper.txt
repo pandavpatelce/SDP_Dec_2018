@@ -19,25 +19,27 @@ User stories:
 
 Actors: Admin, User
 
-As a user I should be able to search for buses that can take me to my desired destination.
-As a user I should be able to check in to the journey as I sit in the bus.
-As a user I should be able to get the next station in my journey.
-As a user I should be able to get the nearest source destination to commence journey.
-As a user I should be able to check out from the journey as the destination is reached.
-As a user I should be able to rate the app.
-As a user I should be able to post a review about my experience.
+P0.0 (17/01/2019) - System should be able to track the location of the user.
+P0.1 (17/01/2019) - System should be able to fetch the BRTS stop nearest to the user.
 
-As an admin I should be able to manage database of the buses.
 
-System should be able to track the location of the user.
+P1.0 - As a user I should be able to search for buses that can take me to my desired destination. (By 24/01/2019)
 
-System should be able to fetch the BRTS stop nearest to the user.
+P2.0 - As a user I should be able to check in to the journey as I sit in the bus.( By 31/01/2019)
+P2.1 - As a user I should be able to get the next station in my journey.( By 31/01/2019)
 
-System should show a list of buses along with expected time of arrival that can take user from src to dest. 
+//As a user I should be able to get the nearest source destination to commence journey.
+P3.0 - As a user I should be able to check out from the journey as the destination is reached.(By 21/02/2019)
+p3.1 - As a user I should be able to rate the app.(By 21/02/2019)
+p3.2 - As a user I should be able to post a review about my experience.( By 28/02/2019)
 
-System should show the platform no. along with the bus number. 
 
-System should notify the user about upcoming stations and stations that are remaining until destination would be reached.
+P4.0 - System should show a list of buses along with expected time of arrival that can take user from src to dest. 
+P4.1 - System should show the platform no. along with the bus no. 
+P4.2 - System should notify the user about upcoming stations and stations that are remaining until destination would be reached.
+P4.3 - System should show user the path on which he/she is travelling on the map.
+p4.4 - As an admin I should be able to manage database of the buses.
+(P4 until 07/03/2019.)
 
 System should show user the path on which he/she is travelling on the map.
 
