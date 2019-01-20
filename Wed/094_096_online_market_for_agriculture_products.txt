@@ -1,7 +1,7 @@
 Roll No : CE-94 (Rutvik Patel)
 	  CE-96 (Virat Patel)
 
-GitHub repositories: https://github.com/vir8/SDP
+GitHub repositories: https://github.com/vir8/omap
 
 Technologies: Python ( Django framework ), MongoDB, javascript
 
@@ -13,7 +13,7 @@ User stories:
 P0
 ->System should allow farmer,merchant to register.(23/01)
 ->System allows to farmers and merchants to login.(23/01)
-->Admin should be able to post product wise range decided by APMC.
+->Admin should be able to post product wise range decided by APMC.(30/01)
 ->Farmer/merchant should be able to see different agriculture products price range on their home page.(30/01)
 ->Farmer/merchant should be able to post product wise quantity which they want to sell/buy.(30/01)
 ->Farmer/merchant should be able to see near by merchants/Farmers and their productwise qauntity.(06/02)
@@ -22,7 +22,7 @@ P1
 ->Farmers can see reviews and ratings given to merchants ,and sort by them.(06/03)
 ->Farmers can rate and give feedback about merchants.(06/03)
 ->Farmers and merchants can interact with using in-app chat service.(24/02)
-P2
+P2(by 10/3)
 ->System provides different payments methods to merchants and farmer to accept the payments(prototype).
 ->Farmers can post pictures of their products.
 ->Transporter can register to use system.
