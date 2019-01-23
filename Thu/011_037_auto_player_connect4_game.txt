@@ -26,3 +26,10 @@ srs should be ready by next reporting, and update it under srs_docs in Thu direc
 implemented player class for auto player
 Will implement board and coin class
 
+17 Jan 2019 update:
+pending from last time - Update above details and send pull request.
+Assign proper priorities to user stories and dates to all user stories and update it on this repo
+SRS to be completed and updated on github (should be in IEEE format) - update pull request
+No update from coding front
+Will look into design in next lab and coding update
+Keep updating github repo regularly. Do not accumulate huge changes locally.

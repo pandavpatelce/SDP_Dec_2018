@@ -63,3 +63,12 @@ add priorities and dates to all user stories and update it on this repo
 srs should be ready by next reporting, and update it under srs_docs in Thu directory under this repo
 try to do different feasibility testing on video rendering on client from server
 try implement one or two user stories by next reporting
+
+17 Jan 2019 update:
+pending from last time - assign proper priorities to user stories and dates to all user stories and update it on this repo
+SRS to be updated on github (should be in IEEE format) - update pull request
+sign up and login is completed
+add course is completed
+Next step is to implement update and delete - courses
+Impletent functionality to add different resources under different topics
+Nice progress!

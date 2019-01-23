@@ -62,3 +62,9 @@ SRS document should be updated under srs_doc directory which is under parent of 
 Check quora to see how you can stop users from duplicating complaints. Quora has good strategy on minimizing duplicate questions.
 Check feasibility of using wit APIs for auto classification.
 Create flow diagram of how a complain can flow from one state to another. It will give more clarity on life cycle of a complain.
+
+16 Jan 2019 comments:
+Did not complete any story by this date
+SRS completed.
+Send Pull request with priorities and dates updated. Also include SRS in pull request
+By next week 2-3 stories should be completed

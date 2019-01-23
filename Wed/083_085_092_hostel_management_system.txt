@@ -43,3 +43,10 @@ You need to be ready with the SRS by next lab
 All these changes should be reflected in this document only. So you can clone this repo, create new branch, push it to remote repo and start new pull request.
 By next reporting you should have database design in terms of ER diagram and tables on database server.
 SRS document should be updated under srs_doc directory which is under parent of your project file in this repo
+
+16 Jan 2019 comments:
+ER diagram to be completed.
+SRS completed.
+Will need to speed up things!
+Send Pull request with dates updated for each user story. Also include SRS in pull request.
+By next week 2-3 stories should be completed
