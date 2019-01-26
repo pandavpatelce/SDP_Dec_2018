@@ -1,7 +1,7 @@
 Roll No : CE-94 (Rutvik Patel)
 	  CE-96 (Virat Patel)
 
-GitHub repositories: https://github.com/vir8/omap
+GitHub repositories: https://github.com/WhoisRppatel/Online-market-for-agriculture-products
 
 Technologies: Python ( Django framework ), MongoDB, javascript
 
