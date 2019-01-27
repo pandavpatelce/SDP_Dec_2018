@@ -2,20 +2,19 @@ Roll No: CE-111
 
 Name: SAXENA ANMOL ANUP
 
-Github Profile: https://github.com/anmolsaxena10/
+Github Repository: https://github.com/anmolsaxena10/suggestify
 
 Project Title: Search Autocomplete API
 
-Technologies: Django, Redis, Cassandra, Javascript(for front-end library), etc
+Technologies: Node.js+others, Redis, Cassandra, Javascript(for front-end library), etc
 
-Description: The project aims at developing a scalable, available and low latency search auto-complete/type-ahead functionality using proper 
-data structures(trie/prefix tree) and algorithms to maintain these data structures. The suggestions would be based on most frequent queries. End users can consume API and Front End library developed in this project to use this service for their uses.
+Description: The project aims at developing a scalable, available and low latency search auto-complete/type-ahead functionality using proper data structures(trie/prefix tree/hash tables) and algorithms to maintain these data structures. The suggestions would be based on most frequent queries. End users can consume API and Front End library developed in this project to use this service for their uses.
 
 Priorities:
-P0) Develop proper data structure according to requirements, Develop an ReST API to consume the service.
-P1) Develop a Front End library for javascript which provides basic functionalities for using the API easily, Add feature of Spelling Auto-correct for queries.
+P0) Develop proper data structure according to requirements, Develop an ReST API to consume the service. (Deadline 3-2-19)
+P1) Develop Tenant Admin Dashboard and a Front End library for javascript which provides basic functionalities for using the API easily. (Deadline 10-2-19)
 Extra Info: The following dataset would be used for updating queries. Also to deploy this project AWS free tier could be used.
-https://www.kaggle.com/c/yandex-personalized-web-search-challenge/data
+http://www.cim.mcgill.ca/~dudek/206/Logs/AOL-user-ct-collection/
 
 02 Jan 2019 comments:
 You need to put date against each story in p0 and p1 priority, by that date implementation of that story should be complete
@@ -24,3 +23,9 @@ All these changes should be reflected in this document only. So you can clone th
 SRS document should be updated under srs_doc directory which is under parent of your project file in this repo
 Send me eamil stating your need for ddu email address
 Also send me separate email including details on algorithm that you are planning to use.
+
+16 Jan 2019 comments:
+design ready
+SRS to be completed.
+Send Pull request with priorities updated for p1-p4 and also include SRS in pull request
+Will start implementation by this week
