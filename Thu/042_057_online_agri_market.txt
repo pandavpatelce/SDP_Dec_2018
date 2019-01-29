@@ -2,7 +2,7 @@ Roll Numbers: CE042, CE057
 
 Names: JAYKUMAR PATEL, BHAVIN MAJETHIA
 
-Project title: ONLINE COMMODITY MARKET
+Project title: ONLINE AGRI MARKET
 
 Description: The Vision of this project is to ensure fair price to the farming community by devising 
 	new techniques and by making use of online market. An application, that serves as a platform for
@@ -62,3 +62,8 @@ have designed basic first pages for buy and sell
 explore searching and sorting for buyer
 good progress!!
 
+17 Jan 2019 update:
+pending from last time - assign proper priorities to user stories and dates to all user stories and update it on this repo
+SRS to be updated on github (should be in IEEE format) - send pull request
+still workin gon sign up page
+next step is to complete signup functionality for user with database entry

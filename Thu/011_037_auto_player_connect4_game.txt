@@ -2,22 +2,35 @@ Please send me your email addresses to pandavpatel.ce@ddu.ac.in
 Fill in the following details
 
 Roll Nos of team mates:
+CE011
+CE037
 
 Names of team mates:
+CE011 - Amrita Bhogayata
+CE037 - Harsh Vadalia
 
-Project title:
+Project title: "Auto Player Connect4"
 
 Description:
+The main motive of this project is to the demonstrate the usage of Reinforcement Learning, a part of Artificial Intelligence to make AN INTELLIGENT and UNDEFEATED module of Connect4 auto player.
 
-Github repo link:
+Github repo link: https://github.com/midchaos/Auto-Player-Connect4
 
 Technologies:
+Reinforcement Learning Algorithms and Libraries.
+Coding language - Python.
+For GUI - Pygame Library.
 
 Other useful information:
 
-user stories with priorities and date against each story by which implementation should be complete
-
-
+User stories with priorities and date against each story by which implementation should be complete:
+1. Create GUI for the game 
+	a. Home page
+	b. Mode Selection page
+	c. Game page
+	d. Game-over page
+2. Two Player mode
+3. Auto Player mode
 
 
 03 Jan 2019 reporting:
@@ -26,3 +39,10 @@ srs should be ready by next reporting, and update it under srs_docs in Thu direc
 implemented player class for auto player
 Will implement board and coin class
 
+17 Jan 2019 update:
+pending from last time - Update above details and send pull request.
+Assign proper priorities to user stories and dates to all user stories and update it on this repo
+SRS to be completed and updated on github (should be in IEEE format) - update pull request
+No update from coding front
+Will look into design in next lab and coding update
+Keep updating github repo regularly. Do not accumulate huge changes locally.
