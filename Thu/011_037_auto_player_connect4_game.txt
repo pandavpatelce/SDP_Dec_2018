@@ -33,3 +33,9 @@ SRS to be completed and updated on github (should be in IEEE format) - update pu
 No update from coding front
 Will look into design in next lab and coding update
 Keep updating github repo regularly. Do not accumulate huge changes locally.
+
+24 Jan 2018
+send updated pull request for SRS and other details
+Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.
+Will update project tile scope and SRS to reflect new scope
+Expecting some work in next week for new scope

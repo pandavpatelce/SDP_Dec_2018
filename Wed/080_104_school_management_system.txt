@@ -1,6 +1,6 @@
 -Roll Nos: CE104(Karan), CE080(Bhumik)
 
--Github Repository: https://github.com/KaranGRohit/SMS
+-Github Repository: https://github.com/KaranGRohit/Online-SMS/
 
 -Technology: We will be using python3 langauge with Django Framework.
 
@@ -76,3 +76,10 @@ Did not complete any story by this date
 SRS completed.
 Send Pull request with priorities and dates for each user story updated for p1-p4 and also include SRS in pull request
 By next week 2-3 stories should be completed
+
+23 Jan 2019
+VERY IMPORTANT: Change path of the github repo on this document and send me pull request
+Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit very frequently.
+completed login, register and teach can add student info
+Are on time. Should be able to complete next week stories on time. And may be more.....
+Nice progress!

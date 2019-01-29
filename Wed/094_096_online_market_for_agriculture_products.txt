@@ -42,3 +42,10 @@ Both are absent
 Need to complete SRS as soon as possible.
 Send Pull request with priorities and dates for each story updated. Also include SRS in pull request.
 Complete 2-3 user stories by next week.
+
+23 Jan 2019
+Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.
+user login, signup and product page has been coded
+By next week will add functionality to differentiate user and agent at the time of signup and after login
+Are on time. Should be able to complete next week stories on time. And may be more.....
+Nice progress!

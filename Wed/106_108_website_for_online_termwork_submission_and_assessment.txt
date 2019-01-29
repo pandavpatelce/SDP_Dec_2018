@@ -79,3 +79,8 @@ No stories completed by date. By next week 2-3 stories should be completed.
 Backend APIs for following functionalities are ready.
 Compile, run, other stats
 Very good progress!
+
+23 Jan 2019
+Nice progress!!!
+implemented user, user profile, assignment, subject and compilation apps
+Need to polish them integrate apps into single project

@@ -52,3 +52,11 @@ All three are absent
 Need to complete SRS as soon as possible.
 Send Pull request with priorities and dates for each story updated. Also include SRS in pull request.
 Complete 2-3 user stories by next week.
+
+23 Jan 2019
+Super important - Pending from last week - Send Pull request with priorities and dates for each story updated. Also include SRS in pull request.
+Update github repo to reflect new repo
+Hosted database on graphene db and web server on heroku
+Register and login has been completed
+Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit very frequently.
+Nice progress!
