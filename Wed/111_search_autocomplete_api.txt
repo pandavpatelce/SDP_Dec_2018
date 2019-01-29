@@ -29,3 +29,13 @@ design ready
 SRS to be completed.
 Send Pull request with priorities updated for p1-p4 and also include SRS in pull request
 Will start implementation by this week
+Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit very frequently.
+Nice progress!
+
+23 Jan 2019
+redis has been setup and can get and set
+Have to parse dataset and generate 5 frequesnt words for each key
+Will implement search based on tenants as well as part of the project
+By next week, will complete half of the project
+Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit very frequently.
+Nice progress!

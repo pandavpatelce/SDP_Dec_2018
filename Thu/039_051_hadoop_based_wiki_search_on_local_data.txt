@@ -30,3 +30,6 @@ will need to process wiki dump to extract useful info for input to hadoop
 SRS to be updated on github (should be in IEEE format) - send pull request
 mapping was inefficient because spark was running on a local copy - fixed it!
 figuring out pre-processing methods on wiki data
+
+24 Jan 2018
+Expecting huge update next week.
