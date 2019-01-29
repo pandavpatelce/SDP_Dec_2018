@@ -1,62 +1,79 @@
- -----------------------------------------------
-|  ROLL NUMBER  	NAME			|
- -----------------------------------------------
-|  CE068	     	AKSAHY METHANIYA	|
-|  CE075	     	RAVI PANDYA		|
-|  CE071		KUNJ NAIK		|
- -----------------------------------------------
+ -------------------------------------------
+|  ROLL NUMBER  	NAME		            |
+|  CE068	     	AKSHAY METHANIYA        |
+|  CE075	     	RAVI PANDYA	            |
+|  CE071		    KUNJ NAIK	            |
+ -------------------------------------------
 
  -----------------------------------------------
 | PROJECT TITLE	  :- 	ONLINE EDUCATION PORTAL |
  -----------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 DESCRIPTION :-
-	The main objective of creating a Education - Portal is to provide a various courses Material,Video Lectures,Notes and related Books.
-User can take any course from the available courses and evaluate their knowledge by giving test.
----------------------------------------------------------------------------------------------------------------------------------------------
-GITHUB REPOSITORY LINK		-	https://github.com/kcn21/EducationPortal.git
----------------------------------------------------------------------------------------------------------------------------------------------
+	The main objective of creating a Education Portal is to provide a various courses Material,Video Lectures,Notes and related Books.
+	User can take any course from the available courses and evaluate their knowledge by giving test.
+----------------------------------------------------------------------------------------------------------------------------------------
+ GITHUB REPOSITORY LINK		-	https://github.com/kcn21/EducationPortal.git
+----------------------------------------------------------------------------------------------------------------------------------------
+
 USER STORIES
 
 1.	Login / Registration
-		User visits Education portal. On not being in session, user is redirected to the Login page.
-		User visits Education Portal. On being in session, user is redirected to the Home Page based on his/her role.
-		User visits Education Portal. On not being in session, user is redirected to the Login page.
-		User click the link of registration. User creates an account and after that User is redirected to Home Page.
-2.	Enrolment Course
-		User visits Home Page. User sees the list of Courses and selects a course. Now user sees two options
-			i.	Video Lecture  
-			ii.	Text Blogs
-		User selects Video Lecture option. User sees the list of topics and selects a topic. 
-		Now User views the list of Video Lectures. User starts watching Video Lecture one by one.
-		User selects Text Blogs option. User sees the list of topics and selects a topic. 
-		Then user reads the whole blog of that particular topic.
 
-3.	Test
-		User visits Home Page. User sees the list of Courses and selects a course. Then user selects the Test option.
-		User gives the Test & at the end of the test user views the result. As getting result more than 75% user gets certificate from the portal.
+	P0	User visits Education Portal. On not being in session, user is redirected to the Login page.
+		  User click the link of registration. User creates an account and after that User is redirected to Home Page.
+		  User visits Education Portal. On being in session, user is redirected to the Home Page based on his/her role.
+	  	User visits Education Portal. On not being in session, user is redirected to the Login page.(15/01/2019)
 
-4.	Admin
-		Admin visits the Admin Portal of system. Admin views the list of functions which he/she can perform (e.g. Manage Course).
-		Admin select one option from below
-		i.	Manage Course
-			1.	Now Admin views the list of tasks as below	
-				a.	Add Course
-					Admin fills the Course Detail (Course Name, Description, Duration, price etc.) Form and submits.
-				b.	Update Course
-					Admin selects the course & modifies the course Details.
-				c.	Delete Course
-					Admin selects the course & deletes the course and all of its topics.
-				d.	Add Topic
-					Admin selects the course. Admin fills the topic details and content of topic.
-				e.	Update Topic
-					Admin selects the course and particular topic. Admin modifies the content or details of topic.
-				f.	Delete Topic
-					Admin selects the course and particular topic and removes the post.
-		ii.	Manage Users
-			Admin views the list of users and selects the user.Then user details,enrolled course details and test results are displayed to admin.
+	P1  User visits Education Portal. If he has forget his password then he can use forget password functionality and user is redirected to Forget password page.(extension)
 
 
+
+2.	Admin
+
+	P0  Admin adds Courses & Topics(23/01/2019)
+			1.	Add Course
+				Admin fills the Course Detail (Course Name, Description, Duration, price etc.) Form and submits.
+
+			2.	Add Topic
+				Admin selects the course. Admin fills the topic details and content of topic.
+
+	P0  Admin Update Course & Topics(30/01/2019)
+			1.  Update Course 
+				Admin selects the course & modifies the course Details.
+
+			2.	Update Topic
+				Admin selects the course and particular topic. Admin modifies the content or details of topic.
+
+
+	P0  Admin Delete Course & Topics(6/02/2019)
+			1.	Delete Course
+				Admin selects the course & deletes the course and all of its topics.
+
+			2.	Delete Topic
+				Admin selects the course and particular topic and removes the post.
+
+	P0	Admin manage Users(20/02/2019)
+			1.  Admin views the list of users and selects the user. Then user details, enrolled course details and test results are displayed to admin.
+
+			2.	Admin can Add, Update, Delete the details of the user
+
+
+
+3.	Enrolment Course
+
+	P0	User visits Home Page. User sees the list of Courses and selects a course. Now user sees two options.(27/02/2019)
+			1.	Video Lecture
+			2.	Text Blogs
+	P0	User selects Video Lecture option. User sees the list of topics and selects a topic. User views the list of Video Lectures. User starts watching Video Lecture one by one.(6/03/2019)
+
+	P0	User selects Text Blogs option. User sees the list of topics and selects a topic. User reads the whole blog of that particular topic.(13/03/2019)
+
+4.  Test
+
+	P0	User visits Home Page. User sees the list of Courses and selects a course. Then user selects the Test option and give a test.(20/03/2019)
+
+	P1	User gives the Test & at the end of the test user views the result. As getting result more than 75% user gets certificate from the portal.(extension)
 
 03 Jan 2019 reporting:
 add priorities and dates to all user stories and update it on this repo
@@ -72,6 +89,7 @@ add course is completed
 Next step is to implement update and delete - courses
 Impletent functionality to add different resources under different topics
 Nice progress!
+
 
 24 Jan 2018
 Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.

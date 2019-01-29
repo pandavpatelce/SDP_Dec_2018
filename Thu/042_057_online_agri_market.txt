@@ -1,6 +1,7 @@
 Roll Numbers: CE042, CE057
 
-Names: JAYKUMAR PATEL, BHAVIN MAJETHIA
+Names: JAYKUMAR PATEL, BHAVIN MAJITHIA
+THIA
 
 Project title: ONLINE AGRI MARKET
 
@@ -20,37 +21,30 @@ User stories:
 
 	Actors: Buyers, Sellers
 	
-		As a trader, I should be able log in to the system.
-
-		As a trader, I should be able to post details about product that I want to buy
-		with certain specification.
+	P0 - 24/01/2019	As a user, I should be able to login to the system via simple registration and
+			login process.(via mobile no. And OTP)
+			
+	P1 - 31/01/2019	As a seller, I should be able to post details of my product with sample photograph
+			and description that I want sell.
 		
-		As a trader, I should able to get details about farmers that are willing to sell
-		their products that I have just posted.
+	P2 - 06/02/2019	As a seller, I should able to get details about farmers that are willing to sell
+			their products that I have just posted.
 		
-		As a trader, I should able to get current details about market rate of any
-		agricultural product.
+	P3 - 21/02/2019	As a buyer, I should able to add to favourite some posts which has posted by farmer for
+			future use.
 		
-		As a trader, I should able to save some posts which has posted by farmer for
-		future use.
+	P4 - 21/02/2019 As a buyer, I should able to share posts which have posted by others as well
+			as by me on other social media platforms like whatsapp etc.
 		
-		As a trader, I should able to share posts which have posted by others as well
-		as by me on other social media platforms like whatsapp etc.
-
-		As a farmer, I should be able to login to the system via simple registration and
-		login process.(via mobile no. And OTP)
+	P5 - 28/02/2019	As a seller, I should able to get details about buyers that are currently
+			seeking products that I want to sell.
 		
-		As a farmer, I should be able to post details of my product with sample photograph
-		and description that I want sell.
+	P6 - 6/03/2019 	As a seller, I should able to get current details about market rate of any
+			agricultural product.
 		
-		As a farmer, I should able to get details about traders that are currently
-		seeking products that I want to sell.
 		
-		As a farmer, I should able to get current details about market rate of any
-		agricultural product.
-		
-		As a farmer, I should able to save some posts which has posted by trader for
-		future use.
+	P7- 6/03/2019	As a seller, I should able to save some posts which has posted by buyers for
+			future use.
 
 
 
