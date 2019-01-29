@@ -12,7 +12,7 @@ CE037 - Harsh Vadalia
 Project title: "Auto Player Connect4"
 
 Description:
-The main motive of this project is to the demonstrate the usage of Reinforcement Learning, a part of Artificial Intelligence to make AN INTELLIGENT and UNDEFEATED module of Connect4 auto player.
+The main motive of this project is to the demonstrate the usage of Reinforcement Learning, a part of Artificial Intelligence to make AN INTELLIGENT and UNDEFEATED module of Connect4 auto player and taking input from real world game board through image processing using YOLO framework.
 
 Github repo link: https://github.com/midchaos/Auto-Player-Connect4
 
@@ -20,18 +20,22 @@ Technologies:
 Reinforcement Learning Algorithms and Libraries.
 Coding language - Python.
 For GUI - Pygame Library.
+Image processing - YOLO framework.
 
 Other useful information:
 
 User stories with priorities and date against each story by which implementation should be complete:
 1. Create GUI for the game 
-	a. Home page
-	b. Mode Selection page
-	c. Game page
-	d. Game-over page
-2. Two Player mode
-3. Auto Player mode
-
+	a. Home page - 07/02/2019
+	b. Mode Selection page - 07/02/2019
+	c. Game page - 14/02/2019
+	d. Game-over page - 14/02/2019
+2. Two Player mode - 07/02/2019
+3. Auto Player mode - 14/02/2019
+4. Image processing module
+	a. Creating datasets for training - 14/02/2019
+	b. Rectifying and resolving errors - 28/02/2019
+5. Full fledged testing - 14/03/2019
 
 03 Jan 2019 reporting:
 Complete above details and send pull request
