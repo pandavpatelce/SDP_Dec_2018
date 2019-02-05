@@ -11,13 +11,25 @@ Title : Online term work submission and assessment labs
 Description:  Student can submit his assignment online using this web application. Student's Assignment run on different test cases and returns appropriate result with score. Student can see wrong test cases and all his previous submissions with score. Faculty can add/remove subjects and his assignments with different testcases. Faculty can see submission of all the users and plagiarism result. Student can practice on IDE.
 
 User stories:
+
+
+Deadline
+
+23/1/19 :: 1,2,10,3,4
+30/1/19 :: 5,6,7,11,12,13
+5/2/19  :: 8,9,14,15,16
+19/2/19 :: 17,18,19,20
+26/2/19 :: 21,22,23,24
+
+
 ===============================P0 =====================================================
 
-1) Student/Faculty should be able to register.
 
-2) Student/Faculty should be able to login.
-
-3) Student should see all subjects list.
+1) Student/Faculty should be able to register.                          	 
+																			
+2) Student/Faculty should be able to login.									
+																			
+3) Student should see all subjects list.									
 
 4) Student can request for a particular course to the faculty.
 
@@ -64,6 +76,7 @@ User stories:
 23) Student can take part in any live contest.
 
 24) Student can start virtual contest at any time.
+
 
 02 Jan 2019 comments:
 You need to put date against each story in p0 and p1 priority, by that date implementation of that story should be complete
