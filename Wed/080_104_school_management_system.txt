@@ -21,41 +21,41 @@
 
 	1)Student Activity:
 
-	P0.student can see his/her school result online. 
-	P1.student can see his/her class Attendance.
-	P2.student can see  his/her allocated assignment or project or timetable by teacher.
-	P3.studebt can see timetable.
-	P4.student can generate  his/her fee-reciept.
-	P5.a new student can apply for admission to the school.
+	P0.student can see his/her school result online. (26/01/2019)
+	P1.student can see his/her class Attendance.(5/02/2019)
+	P2.student can see  his/her allocated assignment or project or timetable by teacher.(10/02/2019)
+	P3.studebt can see timetable.(05/02/2019)
+	P4.student can generate  his/her fee-reciept.(extention(20/02/2019))
+	P5.a new student can apply for admission to the school.(extention(11/03/2019))
 	
 	2)Teacher Activity:
 	
-	P0.teacher can see any student's information of his class.  
-	P1.teacher can upload student's marks and generate result.
-	P2.teacher can upload student's attendance.
-	P3.teacher can upload student assignment/project online.
-	P4.teacher can organize a PTM(parent teacher meeting) via notice. 
+	P0.teacher can see any student's information of his class. (22/01/2019)
+	P1.teacher can upload student's marks and generate result.(30/01/2019)
+	P2.teacher can upload student's attendance.(05/02/2019)
+	P3.teacher can upload student assignment/project online.(05/02/2019)
+	P4.teacher can organize a PTM(parent teacher meeting) via notice. (extention(05/03/2019))
 	
 	
 	3)Principal Activity(Admin):
 	
-	P0.principal can enroll new students and hire new teacher.
-	P1.principal can see any student's or teacher's information.
-	P2.principal can assign classes and subjects to teachers.
-	P3.principal can decide rules for school and push it to the notice board.
-	P4.principal can generate timetable for class and push it to the notice board.
+	P0.principal can enroll new students and hire new teacher.(26/01/2019)
+	P1.principal can see any student's or teacher's information.(30/01/2019)
+	P2.principal can assign classes and subjects to teachers.(05/02/2019)
+	P3.principal can decide rules for school and push it to the notice board.(extention(10/03/2019))
+	P4.principal can generate timetable for class and push it to the notice board.(07/02/2019)
 
 
 	4)Parents Activity:
 
-	P0.Parents can view student result as well as attendance.
-	P1.Parents can view notices published by principle/teachers.
+	P0.Parents can view student result as well as attendance.(07/02/2019)
+	P1.Parents can view notices published by principle/teachers.(extention(23/02/2019))
  
 	
 	5)Accountant Activity:
 
-	P0.Accountant can accept student fees.
-	P1. Accountant can generate salary cheques for teachers/principle.
+	P0.Accountant can accept student fees.(06/02/2019)
+	P1. Accountant can generate salary cheques for teachers/principle.(05/02/2019)
 	
 	-*Notice Board*-
 	#. any information or news a teacher or principle can push/publish to the notice board for students/Parents. 
