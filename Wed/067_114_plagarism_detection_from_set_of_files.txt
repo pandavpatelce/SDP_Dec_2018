@@ -37,3 +37,9 @@ SRS to be completed. Pandav to reply to their email.
 figured out how to use antlr library in maven
 Next step is top remove non-terminal nodes from parsed tree and generate tree of terminal nodes and compare such trees from different programs.
 Will work on UI for next few days
+
+30 Jan 2019:
+Exploring ways to improve algorithm further
+Send me product so that I can test with first year's data
+Will update check tab on UI
+Think if you want to publish any research paper

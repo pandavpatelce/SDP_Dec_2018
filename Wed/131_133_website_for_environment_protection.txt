@@ -74,3 +74,6 @@ Database design and implementation of one story has been completed
 If time permits they should add module that can be used by admin to add and remove categories. If category is removed, it should not be changed for old complains, but will not show that category for new complains.
 Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit very frequently.
 Nice progress!
+
+30 Jan 2019
+On time. Will be on time next time.

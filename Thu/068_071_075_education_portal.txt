@@ -91,7 +91,11 @@ Impletent functionality to add different resources under different topics
 Nice progress!
 
 
-24 Jan 2018
+24 Jan 2019
 Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.
 Are on time. Should be able to complete next week stories on time. And may be more.....
 Nice progress!
+
+31 Jan 2019
+Learned git well! Happy with this team.
+Will be on time next week.

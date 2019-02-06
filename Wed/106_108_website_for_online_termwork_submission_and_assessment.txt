@@ -1,4 +1,4 @@
-Roll No : CE-108 , CE-106
+Roll No : CE-108 (Nemish Sangani), CE-106 (Chintan Rokad)
 
 Github Repositories : 
 	1) https://github.com/nemish11/Online-term-work-submission-and-assessment-labs
@@ -84,3 +84,6 @@ Very good progress!
 Nice progress!!!
 implemented user, user profile, assignment, subject and compilation apps
 Need to polish them integrate apps into single project
+
+30 Jan 2019
+On time. Will be on time next time too.

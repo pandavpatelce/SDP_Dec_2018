@@ -41,9 +41,13 @@ learnt more about aiml and adding more files to it
 Still need to fix google search for unknown questions
 Add code to repo - its very important. Make small changes and push to git repo. Do not accumulate large changes locally.
 
-24 Jan 2018
+24 Jan 2019
 Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.
 Lagging on user story for this week.
 They are confident of being on time for next story.
 Will work on web app for chatbot also in next week
 Nice progress!
+
+31 Jan 2019
+Google search is working now.
+Deciding on technologies for front end

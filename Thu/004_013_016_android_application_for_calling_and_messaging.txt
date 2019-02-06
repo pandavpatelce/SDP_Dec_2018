@@ -38,8 +38,14 @@ Keep updating github repo regularly. Do not accumulate huge changes locally. Thi
 Fetched contacts from contact list of phone
 Have to merge work of all team members - contact fetch, static call
 After work is merged, will work on call with timer
-24 Jan 2018
+
+24 Jan 2019
 Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.
 On time. But app is lagging a little. Need to improve it.
 Are on time. Have started working on next week story and should be able to complete next week stories on time. And may be more.....
 Nice progress!
+
+31 Jan 2019
+Merged work from all three team members.
+refactoring of code is necessary. Create Person/Contact class and use array of object of that class instead of separate array for names and numbers.
+Lagging a little, but should be fine.

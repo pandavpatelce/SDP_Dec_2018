@@ -83,3 +83,6 @@ Need to push code to github. Work in smaller chunks, and do not accumulate huge 
 completed login, register and teach can add student info
 Are on time. Should be able to complete next week stories on time. And may be more.....
 Nice progress!
+
+30 Jan 2019
+No team member was present for reporting

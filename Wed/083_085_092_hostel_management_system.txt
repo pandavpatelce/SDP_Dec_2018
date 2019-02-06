@@ -58,3 +58,7 @@ completed database creation.
 facing issue with css on django, solving it.
 Are on time. Should be able to complete next week stories on time. And may be more.....
 Nice progress!
+
+30 Jan 2019
+VERY IMPORTANT: Send Pull request with dates updated for each user story. Also include SRS in pull request.
+Planning to finish student module by this week

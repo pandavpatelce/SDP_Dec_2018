@@ -61,8 +61,12 @@ Will not go API way due to time constraint
 So next step is to get list of buses to arrive on current location
 Then based on destination provide list of buses from a given station
 
-24 Jan 2018
+24 Jan 2019
 VERY VERY IMPORTANTANT: Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.
 Are on time. Have started working on next week story and should be able to complete next week stories on time. And may be more.....
 Will be on time next week as well, thats their confidence!
 Nice progress!
+
+31 Jan 2019
+Lagging a litle. But I am not converned regarding their progress.
+They should be fine and on time next week.

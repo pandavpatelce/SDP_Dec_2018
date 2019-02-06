@@ -39,3 +39,8 @@ Will implement search based on tenants as well as part of the project
 By next week, will complete half of the project
 Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit very frequently.
 Nice progress!
+
+30 Jan 2019
+Support tenant specific queries
+Dashboard for tenant
+More data on redis side

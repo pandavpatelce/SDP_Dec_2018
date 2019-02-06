@@ -48,3 +48,6 @@ sign up and login for tasker and customer has been completed
 send pull request from branch (HSBranch1) which has daadlines for each story and github repo
 Are on time. Should be able to complete next week stories on time. And may be more.....
 Nice progress!
+
+30 Jan 2019
+on time. Expect them to be on time next week.

@@ -49,3 +49,7 @@ user login, signup and product page has been coded
 By next week will add functionality to differentiate user and agent at the time of signup and after login
 Are on time. Should be able to complete next week stories on time. And may be more.....
 Nice progress!
+
+30 Jan 2019
+Have to make UI easy for admin so that he can change all product at once instead of product by product
+will work on report generation as well

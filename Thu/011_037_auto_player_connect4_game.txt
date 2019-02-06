@@ -47,8 +47,13 @@ No update from coding front
 Will look into design in next lab and coding update
 Keep updating github repo regularly. Do not accumulate huge changes locally.
 
-24 Jan 2018
+24 Jan 2019
 send updated pull request for SRS and other details
 Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.
 Will update project tile scope and SRS to reflect new scope
 Expecting some work in next week for new scope
+
+31 Jan 2019
+Planning to use YOLO framework and do image processing of real world connect4 board image using YOLO
+planning to use darknet for neural network for image processing to get current status of the board
+Will use algorithm which they were planning before to predict next move

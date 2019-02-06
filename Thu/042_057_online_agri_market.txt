@@ -62,6 +62,9 @@ SRS to be updated on github (should be in IEEE format) - send pull request
 still workin gon sign up page
 next step is to complete signup functionality for user with database entry
 
-24 Jan 2018
+24 Jan 2019
 VERY IMPORTANT - p0- Pending from last time - pending from last time - assign proper priorities to user stories and dates to all user stories and update it on this repo
 Need to push code to github. Work in smaller chunks, and do not accumulate huge changes locally. Commit and push to github very frequently.
+
+31 Jan 2019
+Lagging a little due to git issue. Will show this week and next week stories in next week.
