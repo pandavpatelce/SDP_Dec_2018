@@ -63,3 +63,7 @@ Nice progress!
 
 30 Jan 2019
 on time. Expect to be on time for next week stories.
+
+20 Feb 2019
+Changing plan to create website (using angular js) instead of android app
+Will show on Saturday (23 Feb 2019) or before

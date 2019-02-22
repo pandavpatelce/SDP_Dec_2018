@@ -44,3 +44,6 @@ Nice progress!
 Support tenant specific queries
 Dashboard for tenant
 More data on redis side
+
+20 Feb 2019
+No team member was present for reporting

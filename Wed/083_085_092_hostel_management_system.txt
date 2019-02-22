@@ -62,3 +62,6 @@ Nice progress!
 30 Jan 2019
 VERY IMPORTANT: Send Pull request with dates updated for each user story. Also include SRS in pull request.
 Planning to finish student module by this week
+
+20 Feb 2019
+Will show on Saturday (23 Feb 2019) or before

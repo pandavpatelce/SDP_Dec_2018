@@ -53,3 +53,6 @@ Nice progress!
 30 Jan 2019
 Have to make UI easy for admin so that he can change all product at once instead of product by product
 will work on report generation as well
+
+20 Feb 2019
+No team member was present for reporting

@@ -43,3 +43,6 @@ Exploring ways to improve algorithm further
 Send me product so that I can test with first year's data
 Will update check tab on UI
 Think if you want to publish any research paper
+
+20 Feb 2019
+Working on improving algorithm
