@@ -15,7 +15,7 @@ Description: The Vision of this project is to ensure fair price to the farming c
 	Hence it provides freedom of pricing and freedom of access. Through this we can ensure farmers to 
 	make selling decisions most advantageously.
 
-Github repo of the project:https://github.com/jaypatel-13/Online-Agri-Market.git
+Github repo of the project:https://github.com/jaypatel-13/OnlineAgriMarket
 
 User stories:
 
